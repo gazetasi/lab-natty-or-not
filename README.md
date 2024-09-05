@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# COMPARAÇÃO DE TABELAS EM EXCEL VIA IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+SIMULA UMA PESQUISA DE SOLUÇÃO DE COMPARAÇÃO DE TABELAS VIA FORMULAS EXCEL USANDO O IA E EXPLICANDO TODO O PROCESSO ATRAVÉS DE UM AVATAR CRIADO VIA IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+COPILOT PARA PESQUISA DE CONTEUDO
+VIDNOZ AI PARA CRIAÇÃO DE AVATAR
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ESTE PROJETO USA O COPILOT PARA PRODUZIR RESPOSTAS A UMA ENTRADA SOBRE COMPARAÇÃO DE VALORES NO EXCEL E MAIOR MÉDIA ENTRE ELAS.
+TAMBEM USAMOS VIDNOZ AI PARA CRIAR UM AVATAR QUE RELATA EM VOZ ALTA TODO O PROCESSO DESCRITO NO COPILOT
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+SUGESTÃO OBTIDA POR MEIO DO COPILOT VIA INTELIGENCIA ARTIFICIAL COM A SEGUINTE ENTRADA NO PROMPT: "use IA para criar uma formula que compara os valores de 2 tabelas diferentes e retorne qual delas possui a média maior"
+
+Copilot
+Enviado por Copilot:
+Claro! Vou te ajudar a criar uma fórmula no Excel que compara as médias de duas tabelas diferentes e retorna qual delas possui a média maior. Vamos supor que suas tabelas estão nas colunas A e B.
+
+Aqui está um exemplo de como você pode fazer isso:
+
+Calcule a média de cada tabela:
+Para a Tabela 1 (coluna A): =MÉDIA(A:A)
+Para a Tabela 2 (coluna B): =MÉDIA(B:B)
+Compare as médias e retorne o resultado:
+Use a função SE para comparar as médias e retornar qual tabela tem a média maior. Supondo que você colocou as médias nas células C1 e D1, a fórmula seria:
+=SE(C1>D1; "Tabela 1 tem a média maior"; SE(D1>C1; "Tabela 2 tem a média maior"; "As médias são iguais"))
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+ABRE NOVAS PERSPECTIVAS PARA A INTERAÇÃO HOMEM-COMPUTADOR (IHC) E CAMINHOS PARA EXPANSÃO DO APRENDIZADO.
