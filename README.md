@@ -30,5 +30,8 @@ Compare as médias e retorne o resultado:
 Use a função SE para comparar as médias e retornar qual tabela tem a média maior. Supondo que você colocou as médias nas células C1 e D1, a fórmula seria:
 =SE(C1>D1; "Tabela 1 tem a média maior"; SE(D1>C1; "Tabela 2 tem a média maior"; "As médias são iguais"))
 
+LINK DO RESULTADO
+https://share.vidnoz.com/aivideo?id=8519225
+
 ## 💭 Reflexão (Opcional)
 ABRE NOVAS PERSPECTIVAS PARA A INTERAÇÃO HOMEM-COMPUTADOR (IHC) E CAMINHOS PARA EXPANSÃO DO APRENDIZADO.
